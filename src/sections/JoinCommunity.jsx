@@ -16,7 +16,7 @@ const SocialLink = ({ children }) => {
   return (
     <a
       href="/"
-      className="w-[4em] h-[4em] rounded-full bg-white flex items-center justify-center text-[100%] text-black"
+      className="w-[4em] h-[4em] rounded-full bg-white flex items-center justify-center text-[100%] text-white"
     >
       {children}
     </a>
@@ -61,7 +61,7 @@ function JoinCommunity() {
         </div> */}
 
         <div className="flex  items-center justify-center ">
-          <p className="text-center text-sm  font-bold">
+          <p className="text-center text-sm  font-bold text-white">
             All rights reserved | by DOGERACE 2023-24
           </p>
         </div>

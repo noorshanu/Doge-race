@@ -53,9 +53,9 @@ function Hero() {
      
         </div>
         <div className=" text-center mt-4 sm:mt-0">
-          <h1 className="text-center text-[#ffffff] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto"> SolSon  - Solana's True child in Simpson Memes! </h1>
-          <p className=" max-w-3xl  text-black text-xl mx-auto">
-          SolSon, the child of Solana, brings Simpson characters to life in the blockchain world, creating a unique and playful vibe. Solson will be solana’s community one stop entry into lambo gang.
+          <h1 className="text-center text-[#ffffff] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto"> Welcome to DogeRace: The Meme Coin of Champions on Solana </h1>
+          <p className=" max-w-3xl  text-[#f1f1f1] text-xl mx-auto">
+          DogeRace is a unique meme coin experience built on the Solana , with the fun and community spirit of meme coins. It's more than just a cryptocurrency; it's an adventure that rewards its participants with speed, entertainment, and the chance to be part of a vibrant community.
           </p>
         </div>
         <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
