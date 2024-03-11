@@ -70,7 +70,7 @@ function Hero() {
 
           <div className=" relative">
             <a
-           href="https://www.dextools.io/app/en/solana/pair-explorer/RE8gJW69vmdzZMDTEY1C6KAArFx89WVgtSRtjvWp7SZ?t=1709103392432" target="_blank"
+           href="/" target="_blank"
               className=" "
             >
             <img src="images/dextool.png" alt="" className="h-[45px] btn-main   font-bold text-sm sm:text-xl rounded-full px-8 py-2" />
