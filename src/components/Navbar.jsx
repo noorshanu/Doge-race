@@ -44,12 +44,12 @@ function Navbar() {
           >
           
           <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/solsonso" target="_blank">
+             <a href="https://t.me/dogeraces" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
              </a>
          
 
-             <a href="https://x.com/solson404/" target="_blank">
+             <a href="https://twitter.com/dogerace1" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
