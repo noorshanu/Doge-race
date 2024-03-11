@@ -8,7 +8,7 @@ function Hero() {
           className="x1 absolute top-[5%] sm:top-[20%] left-0 w-auto h-[50px] sm:h-[160px]  "
         />
         <img
-          src="images/star.png"
+          src="images/star2.png"
           alt=""
           className="floating  absolute top-[20%] sm:top-[46%] left-3 sm:left-[10%] w-auto h-[100px] "
         />
